@@ -1,6 +1,6 @@
 # AirBnB clone - The console
 
-![hbnb-screenshot](https://github.com/johnelsaphiree/AirBnB_clone/img/hbnb.png)
+![hbnb-screenshot](https://github.com/Johnelsaphiree/AirBnB_clone/blob/main/img/hbnb.png)
 ## Description
 
 This team project is part of the Holberton School Full-Stack Software Engineer program.
@@ -65,6 +65,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- [Arthur Damm](https://github.com/arthurdamm/twodoor) ~ [LinkedIn](https://www.linkedin.com/in/arthur-damm-96527042/) ~ [@arthurdamm](https://twitter.com/arthurdamm):
+- [Johnelsaphiree](https://github.com/johnelsaphiree) ~ [LinkedIn](https://www.linkedin.com/in/johnelsaphire/) ~ [@johnelsaphiree](https://twitter.com/johnelsaphire):
 *Sharpening my skills at Holberton School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.*
-- **Laura Roudge** - [laura.derohan@gmail.com](https://github.com/lroudge)
+- **Miss Kiruri** - [miss.kiruri@gmail.com](https://github.com/misskiruri)
