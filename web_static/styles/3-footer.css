@@ -12,7 +12,7 @@ footer {
 }
 
 .footer__styling {
-  text-align: center;
   display: flex;
+  justify-content: center;
   align-items: center;
 }
